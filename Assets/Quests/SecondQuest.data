@@ -1,0 +1,5 @@
+questObject:TestCube2
+questCompleted:false
+messageOnMouseOver:You need to click on this object
+messageOnMouseDown:Congratulations! You completed the quest
+nextQuest:ThirdQuest

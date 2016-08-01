@@ -1,0 +1,5 @@
+questObject:TestCube
+questCompleted:false
+messageOnMouseOver:Click on this object
+messageOnMouseDown:Go to the cube on the other side of the mansion
+nextQuest:SecondQuest
