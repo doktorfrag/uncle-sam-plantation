@@ -1,2 +1,2 @@
 # uncle-sam-plantation
-Unity C# code for Uncle Sam Plantation project development.
+Unity assets and project settings folders for Uncle Sam Plantation project development.
